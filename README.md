@@ -4,7 +4,7 @@
 
 ### 📊 GitHub Stats
 
-![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api?username=solarenergy990&show_icons=true&theme=dark)
+![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api?username=solarenergy990&show_icons=true&theme=onedark)
 
 ### My stack and tools
 
