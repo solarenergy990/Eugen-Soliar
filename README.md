@@ -5,7 +5,7 @@
 ### 📊 GitHub Stats
 
 ![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api?username=solarenergy990&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solarenergy990&theme=cobalt&langs_count=3)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solarenergy990&theme=cobalt&langs_count=3&show_icons=true)
 
 ### My stack and tools
 
