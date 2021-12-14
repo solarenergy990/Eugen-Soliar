@@ -2,6 +2,10 @@
 
 ### Hi there, I'm Eugen 👋
 
+- 📫 How to reach me:
+  <a href="mailto:solarenergy990@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eugen-soliar-00b19610b/" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="	https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" /></a>
+
 ### 📊 GitHub Stats
 
 <a href="https://github.com/solarenergy990/Eugen-Soliar">
