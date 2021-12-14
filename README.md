@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=solarenergy990&show_icons=true&theme=cobalt" alt="Eugen's GitHub Stats" />
 </a>
 <a href="https://github.com/solarenergy990/Eugen-Soliar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solarenergy990&theme=cobalt&langs_count=3&show_icons=true&exclude_repo=web-studio-example, ice-cream" alt="Eugen's Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solarenergy990&theme=cobalt&langs_count=3&show_icons=true&exclude_repo=solarenergy990.github.io/ice-cream" alt="Eugen's Top Langs" />
 </a>
 
 <!-- ![Eugen's GitHub stats](https://github-readme-stats.vercel.app/api?username=solarenergy990&show_icons=true&theme=cobalt) -->
